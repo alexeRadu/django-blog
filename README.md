@@ -9,6 +9,7 @@ $ cd <path>/djago-blog
 $ python -m venv venv/
 $ venv/Scripts/activate
 $ pip install django
+$ pip install django-crispy-forms
 ```
 
 ## In Linux (Ubuntu)
@@ -17,4 +18,5 @@ $ cd <path>/djago-blog
 $ python -m venv venv/
 $ source venv/Scripts/activate
 $ pip install django
+$ pip install django-crispy-forms
 ```
