@@ -10,6 +10,7 @@ $ python -m venv venv/
 $ venv/Scripts/activate
 $ pip install django
 $ pip install django-crispy-forms
+$ pip install Pillow
 ```
 
 ## In Linux (Ubuntu)
@@ -19,4 +20,5 @@ $ python -m venv venv/
 $ source venv/Scripts/activate
 $ pip install django
 $ pip install django-crispy-forms
+$ pip install Pillow
 ```
